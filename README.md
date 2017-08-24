@@ -2,7 +2,7 @@
 
 ## 这是个demo
 
-![演示图](https://github.com/pioneerz/layer_list/blob/master/layer_list.png)
+![演示图](https://github.com/pioneerz/GravityInvalid/blob/master/Screenshot_2017-08-24-15-35-15.png)
 
 从这张图可以看出 当linearlayout的orientation=“vertical”时在Textview里面设置layout_gravity=“bottom” 没有生效
 其实如果我们再多测试测试的话，我们会发现：
